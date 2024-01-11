@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️I'm currently working on a Government Cooperative creating software to optimize processes.<br>✔️I'm currently studying at University (Autónoma de Occidente).<br>✔️I'm currently learning Laravel and Python.<br>✔️Ask me about web design or web development.<br>
+✔️I'm currently working on a Government Cooperative creating software to optimize processes.<br>✔️I'm currently studying at University (Autónoma de Occidente).<br>✔️I'm currently learning Tailwind.<br>✔️Ask me about web design or web development.<br>
 
 
 ## 🌐 Socials:
